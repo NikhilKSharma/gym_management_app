@@ -13,7 +13,8 @@ class ApiService {
   //     : 'http://localhost:5001';
   // In api_service.dart
 
-  static final String _baseUrl = 'http://192.168.137.1:5001';
+  static final String _baseUrl =
+      'https://gym-management-app-hpfo.onrender.com/';
 
   /// A private helper to get authorization headers with the stored JWT token.
   static Future<Map<String, String>> _getAuthHeaders() async {
