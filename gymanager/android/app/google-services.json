@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730023436732",
+    "project_id": "gymanager-aa65d",
+    "storage_bucket": "gymanager-aa65d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730023436732:android:b8edea1b9471ca73790bb9",
+        "android_client_info": {
+          "package_name": "com.example.gymanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5wJO0hC4uLwleDUxesKlQ93Mgawjuv6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
