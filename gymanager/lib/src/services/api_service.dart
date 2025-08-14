@@ -14,7 +14,7 @@ class ApiService {
   // In api_service.dart
 
   static final String _baseUrl =
-      'https://gym-management-app-hpfo.onrender.com/';
+      'https://gym-management-app-hpfo.onrender.com';
 
   /// A private helper to get authorization headers with the stored JWT token.
   static Future<Map<String, String>> _getAuthHeaders() async {
